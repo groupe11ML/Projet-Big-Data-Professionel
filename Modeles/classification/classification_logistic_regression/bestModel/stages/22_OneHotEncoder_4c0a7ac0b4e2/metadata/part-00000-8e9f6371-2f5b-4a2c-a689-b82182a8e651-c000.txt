@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1766065032340,"sparkVersion":"4.0.1","uid":"OneHotEncoder_4c0a7ac0b4e2","paramMap":{"outputCols":["type_epci_oh"],"inputCols":["type_epci_idx"]},"defaultParamMap":{"dropLast":true,"outputCol":"OneHotEncoder_4c0a7ac0b4e2__output","handleInvalid":"error"}}

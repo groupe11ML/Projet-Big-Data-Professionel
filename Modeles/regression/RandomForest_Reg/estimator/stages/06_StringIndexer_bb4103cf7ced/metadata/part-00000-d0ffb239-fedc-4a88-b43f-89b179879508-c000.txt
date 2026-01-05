@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexer","timestamp":1765999382152,"sparkVersion":"4.0.1","uid":"StringIndexer_bb4103cf7ced","paramMap":{"outputCol":"type_epci_idx","handleInvalid":"keep","inputCol":"type_epci"},"defaultParamMap":{"stringOrderType":"frequencyDesc","outputCol":"StringIndexer_bb4103cf7ced__output","handleInvalid":"error"}}

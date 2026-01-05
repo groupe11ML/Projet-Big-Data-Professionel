@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexer","timestamp":1766066258157,"sparkVersion":"4.0.1","uid":"StringIndexer_05498ed5a91e","paramMap":{"handleInvalid":"keep","inputCol":"nom_commune","outputCol":"nom_commune_idx"},"defaultParamMap":{"handleInvalid":"error","stringOrderType":"frequencyDesc","outputCol":"StringIndexer_05498ed5a91e__output"}}

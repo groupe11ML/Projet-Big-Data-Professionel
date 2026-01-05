@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1766066283228,"sparkVersion":"4.0.1","uid":"OneHotEncoder_629139c01a18","paramMap":{"outputCols":["code_secteur_naf2_oh"],"inputCols":["code_secteur_naf2_idx"]},"defaultParamMap":{"dropLast":true,"outputCol":"OneHotEncoder_629139c01a18__output","handleInvalid":"error"}}

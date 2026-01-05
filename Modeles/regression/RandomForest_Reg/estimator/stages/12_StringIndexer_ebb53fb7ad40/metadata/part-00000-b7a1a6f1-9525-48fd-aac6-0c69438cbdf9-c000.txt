@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexer","timestamp":1765999384309,"sparkVersion":"4.0.1","uid":"StringIndexer_ebb53fb7ad40","paramMap":{"inputCol":"code_grand_secteur","outputCol":"code_grand_secteur_idx","handleInvalid":"keep"},"defaultParamMap":{"stringOrderType":"frequencyDesc","outputCol":"StringIndexer_ebb53fb7ad40__output","handleInvalid":"error"}}

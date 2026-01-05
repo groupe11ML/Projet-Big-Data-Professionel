@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.evaluation.RegressionEvaluator","timestamp":1765999379346,"sparkVersion":"4.0.1","uid":"RegressionEvaluator_09ec78efb236","paramMap":{"metricName":"rmse","predictionCol":"prediction","labelCol":"conso_totale_mwh"},"defaultParamMap":{"metricName":"rmse","predictionCol":"prediction","throughOrigin":false,"labelCol":"label"}}

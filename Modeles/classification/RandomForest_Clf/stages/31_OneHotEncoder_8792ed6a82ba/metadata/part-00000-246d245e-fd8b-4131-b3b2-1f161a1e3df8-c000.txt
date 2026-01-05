@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1766063735268,"sparkVersion":"4.0.1","uid":"OneHotEncoder_8792ed6a82ba","paramMap":{"inputCols":["residences_principales_apres_2019_idx"],"outputCols":["residences_principales_apres_2019_oh"]},"defaultParamMap":{"outputCol":"OneHotEncoder_8792ed6a82ba__output","handleInvalid":"error","dropLast":true}}

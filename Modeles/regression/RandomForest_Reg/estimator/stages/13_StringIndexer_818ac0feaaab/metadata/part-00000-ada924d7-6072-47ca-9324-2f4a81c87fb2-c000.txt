@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexer","timestamp":1765999384710,"sparkVersion":"4.0.1","uid":"StringIndexer_818ac0feaaab","paramMap":{"inputCol":"code_secteur_naf2","handleInvalid":"keep","outputCol":"code_secteur_naf2_idx"},"defaultParamMap":{"handleInvalid":"error","stringOrderType":"frequencyDesc","outputCol":"StringIndexer_818ac0feaaab__output"}}
